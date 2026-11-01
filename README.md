@@ -1,32 +1,39 @@
-# Hey, I'm Matthew 👋
+# Matthew — Developer & Builder
 
-I'm a curious developer who enjoys building useful things, experimenting with technology and learning by making projects.
+> Curious mind. Practical projects. Always experimenting.
 
-- 💻 Interested in HTML, CSS, JavaScript, Java, Kotlin and Python
-- 📱 Enjoy Android development and mobile-friendly projects
-- 🚆 Into railways and technology
-- 🧪 Always experimenting with new ideas
+Hey! I'm Matthew. I enjoy turning ideas into useful little projects, exploring how technology works and learning by building.
+
+## What I like working on
+
+- **Web:** HTML, CSS and JavaScript
+- **Android:** Java, Kotlin and mobile app experiments
+- **Tools:** Python, Termux and practical utilities
+- **Interests:** Railways, tech and tinkering with software
 
 ## Featured projects
 
-| Project | What it is |
-|---|---|
-| [RailBoard](https://github.com/matthewcatt800-png/RailBoard) | A railway-focused project |
-| [Aura Ambient Dashboard](https://github.com/matthewcatt800-png/Aura-Ambient-Dashboard) | An ambient dashboard experiment |
-| [Termux Jellyfin Server](https://github.com/matthewcatt800-png/termux-jellyfin-server) | Jellyfin server setup for Termux |
+| Project | Focus | Repository |
+|---|---|---|
+| RailBoard | Railway-focused project | [Open](https://github.com/matthewcatt800-png/RailBoard) |
+| Aura Ambient Dashboard | Ambient dashboard experiment | [Open](https://github.com/matthewcatt800-png/Aura-Ambient-Dashboard) |
+| Termux Jellyfin Server | Media server on Android / Termux | [Open](https://github.com/matthewcatt800-png/termux-jellyfin-server) |
+| NovaBrowser | Android browser project | [Open](https://github.com/matthewcatt800-png/NovaBrowser) |
+| CastBox | Casting-related app experiment | [Open](https://github.com/matthewcatt800-png/CastBox) |
 
-## My website & tools
+## My digital workshop
 
-Explore my personal site and browser-based utilities:
+I also built a small collection of browser tools: text utilities, JSON formatting, Base64 conversion, URL encoding, HTML entity conversion and a colour picker.
 
-**[matthewcatt800-png.github.io](https://matthewcatt800-png.github.io)**
+**[Visit matthewcatt800-png.github.io](https://matthewcatt800-png.github.io)**
 
-The toolbox includes text utilities, JSON formatting, Base64 conversion, URL encoding, HTML escaping and a colour picker.
+All tools run client-side in the browser.
 
-## Find me
+## Find me around GitHub
 
-[GitHub repositories](https://github.com/matthewcatt800-png?tab=repositories) · [Personal website](https://matthewcatt800-png.github.io)
+- [All repositories](https://github.com/matthewcatt800-png?tab=repositories)
+- [Personal website & toolbox](https://matthewcatt800-png.github.io)
 
 ---
 
-*Built with curiosity, a keyboard and probably too many ideas.*
+*Made with curiosity and a lot of tabs open.*
