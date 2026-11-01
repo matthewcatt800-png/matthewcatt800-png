@@ -2,38 +2,25 @@
 
 > Curious mind. Practical projects. Always experimenting.
 
-Hey! I'm Matthew. I enjoy turning ideas into useful little projects, exploring how technology works and learning by building.
+I enjoy turning ideas into useful software, especially Android apps, web tools and projects that work well on everyday devices.
 
-## What I like working on
+## Areas I work in
+- **Android:** Java and Kotlin app experiments.
+- **Web:** HTML, CSS and JavaScript projects.
+- **Termux & Linux:** shell scripts, command-line tools and self-hosted services.
+- **Railways:** software ideas inspired by real-world rail information.
 
-- **Web:** HTML, CSS and JavaScript
-- **Android:** Java, Kotlin and mobile app experiments
-- **Tools:** Python, Termux and practical utilities
-- **Interests:** Railways, tech and tinkering with software
+## Selected projects
+| Project | What it is |
+| --- | --- |
+| [RailBoard](https://github.com/matthewcatt800-png/RailBoard) | Live UK rail departure boards for Android |
+| [Aura Ambient Dashboard](https://github.com/matthewcatt800-png/Aura-Ambient-Dashboard) | Ambient Android dashboard |
+| [NovaBrowser](https://github.com/matthewcatt800-png/NovaBrowser) | Lightweight Android browser |
+| [CastBox](https://github.com/matthewcatt800-png/CastBox) | Android audio receiver experiment |
+| [Termux Jellyfin Server](https://github.com/matthewcatt800-png/termux-jellyfin-server) | Jellyfin setup for Android and Termux |
 
-## Featured projects
+## Find me
+- **Website:** [matthewcatt800-png.github.io](https://matthewcatt800-png.github.io/)
+- **GitHub:** [@matthewcatt800-png](https://github.com/matthewcatt800-png)
 
-| Project | Focus | Repository |
-|---|---|---|
-| RailBoard | Railway-focused project | [Open](https://github.com/matthewcatt800-png/RailBoard) |
-| Aura Ambient Dashboard | Ambient dashboard experiment | [Open](https://github.com/matthewcatt800-png/Aura-Ambient-Dashboard) |
-| Termux Jellyfin Server | Media server on Android / Termux | [Open](https://github.com/matthewcatt800-png/termux-jellyfin-server) |
-| NovaBrowser | Android browser project | [Open](https://github.com/matthewcatt800-png/NovaBrowser) |
-| CastBox | Casting-related app experiment | [Open](https://github.com/matthewcatt800-png/CastBox) |
-
-## My digital workshop
-
-I also built a small collection of browser tools: text utilities, JSON formatting, Base64 conversion, URL encoding, HTML entity conversion and a colour picker.
-
-**[Visit matthewcatt800-png.github.io](https://matthewcatt800-png.github.io)**
-
-All tools run client-side in the browser.
-
-## Find me around GitHub
-
-- [All repositories](https://github.com/matthewcatt800-png?tab=repositories)
-- [Personal website & toolbox](https://matthewcatt800-png.github.io)
-
----
-
-*Made with curiosity and a lot of tabs open.*
+Most projects are experiments and evolve as I learn and build.
